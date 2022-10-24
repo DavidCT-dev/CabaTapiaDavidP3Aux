@@ -1,0 +1,24 @@
+.img {
+    border-radius: 50%;
+    width: 25vw;
+    height: 50vh;
+}
+.center{
+display: flex;
+flex-wrap: wrap;   
+}
+.color{
+    color: blue;
+}
+.div1{
+    width: 50%;
+    text-align: center;
+    padding-right:-2rem ;
+}
+.div2{
+    width: 40%;
+}
+li{
+    list-style: none;
+    margin: 1em;
+}
